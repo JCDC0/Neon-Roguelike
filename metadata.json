@@ -1,0 +1,5 @@
+{
+  "name": "Neon Roguelike",
+  "description": "A 2D roguelike game with bloom effects and standard shapes.",
+  "requestFramePermissions": []
+}
